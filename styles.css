@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+}
+body{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    color: black;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/8/82/Lightning_McQueen.png");
+}
